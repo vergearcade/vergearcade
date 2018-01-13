@@ -1,0 +1,45 @@
+--- 
+files: 
+  certificate: 
+    vergearcade_com_bfb75_37e67_1547338852_9c5c70fa8ecef8b8156a458e47af56fe: 
+      created: '1515802852'
+      domains: 
+        - vergearcade.com
+        - mail.vergearcade.com
+        - www.vergearcade.com
+      friendly_name: vergearcade.com, mail.vergearcade.com, and www.vergearcade.com
+      id: vergearcade_com_bfb75_37e67_1547338852_9c5c70fa8ecef8b8156a458e47af56fe
+      is_self_signed: 1
+      issuer.commonName: vergearcade.com
+      issuer.organizationName: ~
+      modulus: bfb75c20f6261dd97d7974fdcf3feb40cb3f2de76b83b63f917e75e5697884f42b306ec2dfd2683e1ce9d1c8ae4a6c75b17689b7f3307844217d97cc38ee8c798d7c0cd6ded97a438f9648932d6fa272e3159a22d7da20afbab5801305b8f7cbfb299291d63dad36995ccbd7093725a20749f1d83a39e878bc6a54d184b29f92e5084db60543352bf467d69f2a23c505eeee9d58383b1d9e510a45e120b4f052d1b82da70745f54b295a52397520d555c1677efdc71da672f8add83d1a0b956eb90d9e94e7235f90495e25fca8ac3aa01d00328609919a5e75d32cfd8b9d3f2f85d14ce2000751d2ea13675dfb2037bde43952372a7e1c49bfcc0fd771c37e67
+      modulus_length: 2048
+      not_after: '1547338852'
+      not_before: '1515802852'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: vergearcade.com
+      validation_type: ~
+  key: 
+    bfb75_37e67_9394149632cc82faa242466963fd4f7e: 
+      created: '1515802852'
+      friendly_name: 2,048 bits, created 1/13/18, 12:20 AM UTC
+      id: bfb75_37e67_9394149632cc82faa242466963fd4f7e
+      modulus: bfb75c20f6261dd97d7974fdcf3feb40cb3f2de76b83b63f917e75e5697884f42b306ec2dfd2683e1ce9d1c8ae4a6c75b17689b7f3307844217d97cc38ee8c798d7c0cd6ded97a438f9648932d6fa272e3159a22d7da20afbab5801305b8f7cbfb299291d63dad36995ccbd7093725a20749f1d83a39e878bc6a54d184b29f92e5084db60543352bf467d69f2a23c505eeee9d58383b1d9e510a45e120b4f052d1b82da70745f54b295a52397520d555c1677efdc71da672f8add83d1a0b956eb90d9e94e7235f90495e25fca8ac3aa01d00328609919a5e75d32cfd8b9d3f2f85d14ce2000751d2ea13675dfb2037bde43952372a7e1c49bfcc0fd771c37e67
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      bfb75c20f6261dd97d7974fdcf3feb40cb3f2de76b83b63f917e75e5697884f42b306ec2dfd2683e1ce9d1c8ae4a6c75b17689b7f3307844217d97cc38ee8c798d7c0cd6ded97a438f9648932d6fa272e3159a22d7da20afbab5801305b8f7cbfb299291d63dad36995ccbd7093725a20749f1d83a39e878bc6a54d184b29f92e5084db60543352bf467d69f2a23c505eeee9d58383b1d9e510a45e120b4f052d1b82da70745f54b295a52397520d555c1677efdc71da672f8add83d1a0b956eb90d9e94e7235f90495e25fca8ac3aa01d00328609919a5e75d32cfd8b9d3f2f85d14ce2000751d2ea13675dfb2037bde43952372a7e1c49bfcc0fd771c37e67: 
+        vergearcade_com_bfb75_37e67_1547338852_9c5c70fa8ecef8b8156a458e47af56fe: ~
+    subject.commonName: 
+      vergearcade.com: 
+        vergearcade_com_bfb75_37e67_1547338852_9c5c70fa8ecef8b8156a458e47af56fe: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      vergearcade.com, mail.vergearcade.com, and www.vergearcade.com: vergearcade_com_bfb75_37e67_1547338852_9c5c70fa8ecef8b8156a458e47af56fe
+  key: 
+    friendly_name: 
+      2,048 bits, created 1/13/18, 12:20 AM UTC: bfb75_37e67_9394149632cc82faa242466963fd4f7e
+    modulus: 
+      bfb75c20f6261dd97d7974fdcf3feb40cb3f2de76b83b63f917e75e5697884f42b306ec2dfd2683e1ce9d1c8ae4a6c75b17689b7f3307844217d97cc38ee8c798d7c0cd6ded97a438f9648932d6fa272e3159a22d7da20afbab5801305b8f7cbfb299291d63dad36995ccbd7093725a20749f1d83a39e878bc6a54d184b29f92e5084db60543352bf467d69f2a23c505eeee9d58383b1d9e510a45e120b4f052d1b82da70745f54b295a52397520d555c1677efdc71da672f8add83d1a0b956eb90d9e94e7235f90495e25fca8ac3aa01d00328609919a5e75d32cfd8b9d3f2f85d14ce2000751d2ea13675dfb2037bde43952372a7e1c49bfcc0fd771c37e67: bfb75_37e67_9394149632cc82faa242466963fd4f7e
